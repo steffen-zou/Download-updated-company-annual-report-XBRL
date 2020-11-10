@@ -1,3 +1,3 @@
-In this project, I tried to automate the downloading of company's updated annual report from <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html" target="_blank">SEC website</a>. The annual report will be downloaded as XBRL instance document.
+In this project, I used Python to automate the downloading of company's updated annual report from <a href="https://www.sec.gov/edgar/searchedgar/companysearch.html" target="_blank">SEC website</a>. The annual report will be downloaded as XBRL instance document.
 
 To view the project <code>Download_company_updated_annual_report_XBRL.ipynb</code>, click <a href="https://nbviewer.jupyter.org/github/steffen-zou/Download-updated-company-annual-report-XBRL/blob/master/Download_company_updated_annual_report_XBRL.ipynb">here</a> which will display the project using Jupyter Notebook Viewer, as GitHub sometimes is not able to load this project.
